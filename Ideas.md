@@ -10,6 +10,9 @@
                 • Where are opiates a problem in the United States? 
                     ◦ https://www.kaggle.com/apryor6/us-opiate-prescriptions
                     ◦ Are opiate prescriptions causing opiate overdoses? Or are the OD’s from heroin and aren’t related? 
+                    http://archive.ics.uci.edu/ml/datasets/Drug+consumption+%28quantified%29
+                    This dataset shows drug use and people's tendencies 
+                    
             ▪ Cancer vs Animal Product Consumption
                 • https://ci5.iarc.fr/CI5I-X/Pages/download.aspx
                 • Which countries/groups of people have the highest cancer rates and what is this correlated to? 
